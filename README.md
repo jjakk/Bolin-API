@@ -1,2 +1,2 @@
 # Bolin-API
-The API for Bolin
+The back-end API for Bolin
